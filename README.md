@@ -1,2 +1,2 @@
 # Nummeriek-model-
-Dit is ons nummeriek model van onze versnellingsmeter.
+Dit is het nummeriek model van onze versnellingsmeter.
